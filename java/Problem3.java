@@ -32,7 +32,7 @@ class Solution {
             }
     }
 
-public class Main {
+public class Problem3 {
     public static void main(String[] args) {
         Solution solution = new Solution();
 
